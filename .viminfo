@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1689623087,,"wq"
+|2,0,1689729443,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,27 @@
 # Registers:
 
 # File marks:
-'0  1  55  ~/assign/new.txt
-|4,48,1,55,1689623087,"~/assign/new.txt"
+'0  1  12  ~/defect.txt
+|4,48,1,12,1689729443,"~/defect.txt"
+'1  1  55  ~/assign/new.txt
+|4,49,1,55,1689623087,"~/assign/new.txt"
 
 # Jumplist (newest first):
+-'  1  12  ~/defect.txt
+|4,39,1,12,1689729443,"~/defect.txt"
+-'  1  55  ~/assign/new.txt
+|4,39,1,55,1689623087,"~/assign/new.txt"
 -'  1  55  ~/assign/new.txt
 |4,39,1,55,1689623087,"~/assign/new.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/defect.txt
+	*	1689729441	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
 
 > ~/assign/new.txt
 	*	1689623085	0
